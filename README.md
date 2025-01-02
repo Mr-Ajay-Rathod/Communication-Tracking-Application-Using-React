@@ -183,7 +183,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## **Contact**
 For any queries or feedback:
-- **Email**: support@communicationtracker.com
 - **GitHub**: [Communication Tracker Repository](https://github.com/Mr-Ajay-Rathod/Communication-Tracking-Application-Using-React)
 
 Elevate your communication management with **Communication Tracker** today!
